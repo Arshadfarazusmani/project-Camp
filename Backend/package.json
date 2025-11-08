@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"Backend Api for project management Tasks ",
+  "homepage": "https://github.com/Arshadfarazusmani/project-Camp#readme",
+  "bugs": {
+    "url": "https://github.com/Arshadfarazusmani/project-Camp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arshadfarazusmani/project-Camp.git"
+  },
+  "license": "ISC",
+  "author": "\"Arshad Faraz \"",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongose": "^0.0.2-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
